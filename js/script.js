@@ -2,8 +2,6 @@
 
 [WebMethod]
  [ScriptMethod(UseHttpPost = true)]
- public List<Categories>  GetCategories()
- {
       $(document).ready(function() {
 
 	//E-mail Ajax Send
@@ -22,6 +20,3 @@
 		});
 		return false;
 	});
-
-});
- }
