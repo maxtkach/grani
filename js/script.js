@@ -1,7 +1,4 @@
 
-
-[WebMethod]
- [ScriptMethod(UseHttpPost = true)]
       $(document).ready(function() {
 
 	//E-mail Ajax Send
